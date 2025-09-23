@@ -35,7 +35,7 @@ Make sure you don't remove the `package` line
 You may have to replace the `PinpointConstants` import with the localization method of your choice
 !!!
 4. Set up some of your robot's characteristics using [this](https://pedropathing.com/docs/pathing/tuning/setup)
-5. Use [this](https://pedropathing.com/docs/pathing/tuning/localization/pinpoint) page to set ip Pinpoint localization, if you aren't using a Pinpoint, select your localizer [here](https://pedropathing.com/docs/pathing/tuning/localization) and set it up accorrdingly, make sure you change the import statement
+5. Use [this](https://pedropathing.com/docs/pathing/tuning/localization/pinpoint) page to set up Pinpoint localization, if you aren't using a Pinpoint, select your localizer [here](https://pedropathing.com/docs/pathing/tuning/localization) and set it up accorrdingly, make sure you change the import statement
 !!! Reminder
 Don't plug your i2C into port 0 of the control hub, this is used for the IMU and can cause problems
 !!!
